@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {table}{\numberline {1.1}{\ignorespaces Bill of materials for a PCB.}}{2}{table.1.1}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Comparison of Hough transform algorithms.}}{7}{table.2.1}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Pin options for each DCMI signal.}}{16}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Discovery board DCMI non-free pins.}}{16}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Options for each SPI signal (SPI1 and SPI2).}}{17}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Options for each SPI signal (SPI5 and SPI6).}}{17}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Discovery board SPI5 non-free pins.}}{18}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Final selections of pins.}}{18}{table.4.6}
+\contentsline {table}{\numberline {11.1}{\ignorespaces Final selections of pins.}}{39}{table.11.1}
