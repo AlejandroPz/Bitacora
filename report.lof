@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Original Eiffel Tower grayscale image.}}{6}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Eiffel Tower image processed using the Hough Transform.}}{6}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Eiffel Tower image processed using the Probabilistic Hough Transform.}}{7}{figure.2.3}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Signals connected between the OV7670, the STM32 and the Raspberry Pi.}}{25}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Double buffered DMA architecture. The end of frame toggles both pointers so the Raspberry always receives a full frame.}}{26}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Time diagram showing the communication protocol between the Raspberry and the STM32.}}{27}{figure.7.3}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Time diagram showing the new communication protocol between the Raspberry and the STM32.}}{29}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Steps of line detection running on the Raspberry.}}{30}{figure.8.2}
+\contentsline {figure}{\numberline {9.1}{\ignorespaces 4x4 GL\_LUMINANCE texture (left) losslessly packed into a 4x1 GL\_RGBA texture (right).}}{32}{figure.9.1}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Support window to match (left) and the windows attempted/scanned on the other image (right).}}{33}{figure.9.2}
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Signals connected between the OV7670s, STM32s and the Raspberry Pi.}}{38}{figure.11.1}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Time diagram showing the communication protocol between the Raspberry and both STM32 microcontrollers.}}{39}{figure.11.2}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Tsukuba images matched on the GPU, image taken from the WebGL platform.}}{40}{figure.11.3}
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Gantt chart for the first two months.}}{42}{figure.12.1}
+\contentsline {figure}{\numberline {12.2}{\ignorespaces Drawing. Assembled camera mount.}}{43}{figure.12.2}
+\contentsline {figure}{\numberline {12.3}{\ignorespaces Drawing. Camera part.}}{44}{figure.12.3}
+\contentsline {figure}{\numberline {12.4}{\ignorespaces Drawing. Carrita's part.}}{45}{figure.12.4}
